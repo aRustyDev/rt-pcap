@@ -1,0 +1,8 @@
+[package]
+name = "rt-pcap"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+scalpel = "0.4.1"
+zstd = "0.13.3"
